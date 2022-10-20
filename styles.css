@@ -323,6 +323,8 @@ footer {
         text-align: center;
         align-items: center;
         position: relative;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
     }
 
     .navbar ul li a {
