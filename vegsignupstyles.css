@@ -116,3 +116,13 @@ a {
   .login-form .action button:nth-child(2):hover {
     background: orangered;
   }
+
+   @media (max-width: 1228px) {
+    body {
+        text-align: center;
+        align-items: center;
+        position: relative;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+  }
